@@ -35,11 +35,11 @@ function square(number) {
 ***
 ### My pet project:
 
-| Name       | Description| Used skills |
-| ------------- |:------------------:| -----:|
-| Certificate generator| выровнен вправо    | $1600 |
-| столбец 2     | выровнен по центру |   $12 |
-| зебра-строки  | прикольные         |    $1 |
+| Name       | Description| Used skills | git |demo|
+| :------------- |:------------------| :-----|:------|:-----|
+| Certificate generator| Generation of the participant's certificate according to the template with individual data obtained from the database    | `html`, `css`, `js`, `python`, Figma | 1 | 1 |
+| столбец 2     | выровнен по центру |   $12 | 1 | 1 |
+| зебра-строки  | прикольные         |    $1 | 1 | 1 |
 ***
 ### Courses:
 * HTML and CSS Tutorials on the [w3schools](https://www.w3schools.com/ "W3School") (completed)
