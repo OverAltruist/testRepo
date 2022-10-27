@@ -33,6 +33,14 @@ function square(number) {
 }
 ```
 ***
+### My pet project:
+
+| Name       | Description| Used skills |
+| ------------- |:------------------:| -----:|
+| Certificate generator| выровнен вправо    | $1600 |
+| столбец 2     | выровнен по центру |   $12 |
+| зебра-строки  | прикольные         |    $1 |
+***
 ### Courses:
 * HTML and CSS Tutorials on the [w3schools](https://www.w3schools.com/ "W3School") (completed)
 * JavaScript Manual on learnjavascript.ru (in progress)
