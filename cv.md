@@ -9,7 +9,12 @@ E-mail: overaltruist@gmail.com
 Telegram: @evil_altruist
 
 ***
-### About Myself:
+### Menu
++ [About Myself](#about);
++ [About Myself](#skills);
+  
+***
+### <a name="about"></a> About Myself:
 
 During his studies at a medical university, he became interested in the IT field. At first it was just a hobby, the path started with the basics of Python. Later, I learned about such a specialty as a front-end developer. By a happy coincidence, I managed to find a job as a typewriter on the Tilda designer. This is how my journey in IT began.
 
@@ -17,7 +22,7 @@ Simple work with the designer was not enough for me. That's why I decided to con
 
 At the moment, I am in the process of learning HTML, CSS, JS in order to become a professional Frontend Developer.
 ***
-### Skills:
+### <a name="skills"></a> Skills:
 * Git
 * HTML5 (Basic)
 * CSS3 (Basic)
@@ -37,8 +42,8 @@ function square(number) {
 
 | Name       | Description| Used skills | git |demo|
 | :------------- |:------------------| :-----|:------|:-----|
-| Certificate generator| Generation of the participant's certificate according to the template with individual data obtained from the database    | `html`, `css`, `js`, `node js`, Figma | [git repositories](https:// "first project") | 1 |
-| Food List     | The web application was created to track personal nutrition | `html`, `css`, `js`, `node js`, Figma | [git repositories](https:// "second project") | 1 |
+| Certificate generator| Generation of the participant's certificate according to the template with individual data obtained from the database    | `html`, `css`, `js`, `node js`, Figma | [git name](https:// "first project") | 1 |
+| Food List     | The web application was created to track personal nutrition | `html`, `css`, `js`, `node js`, Figma | [git name](https:// "second project") | 1 |
 | зебра-строки  | прикольные         |    $1 | 1 | 1 |
 ***
 ### Courses:
