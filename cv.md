@@ -37,8 +37,8 @@ function square(number) {
 
 | Name       | Description| Used skills | git |demo|
 | :------------- |:------------------| :-----|:------|:-----|
-| Certificate generator| Generation of the participant's certificate according to the template with individual data obtained from the database    | `html`, `css`, `js`, `python`, Figma | 1 | 1 |
-| столбец 2     | выровнен по центру |   $12 | 1 | 1 |
+| Certificate generator| Generation of the participant's certificate according to the template with individual data obtained from the database    | `html`, `css`, `js`, `node js`, Figma | [git repositories](https:// "first project") | 1 |
+| Food List     | The web application was created to track personal nutrition | `html`, `css`, `js`, `node js`, Figma | [git repositories](https:// "second project") | 1 |
 | зебра-строки  | прикольные         |    $1 | 1 | 1 |
 ***
 ### Courses:
