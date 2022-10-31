@@ -10,9 +10,13 @@ Telegram: @evil_altruist
 
 ***
 ### Menu
-+ [About Myself](#about);
-+ [About Myself](#skills);
-  
++ [About Myself](#about)
++ [Skills](#skills)
++ [Code](#code)
++ [Pet project](#pet)
++ [Courses](#course)
++ [Languages](#language)
+
 ***
 ### <a name="about"></a> About Myself:
 
@@ -31,14 +35,14 @@ At the moment, I am in the process of learning HTML, CSS, JS in order to become 
 * Adobe Photoshop, Illustrator, After Effects, Figma
 
 ***
-### Code Example:
+### <a name="code"></a> Code Example:
 ```javascript
 function square(number) {
   return number * number;
 }
 ```
 ***
-### My pet project:
+### <a name="pet"></a> My pet project:
 
 | Name       | Description| Used skills | git |demo|
 | :------------- |:------------------| :-----|:------|:-----|
@@ -46,12 +50,12 @@ function square(number) {
 | Food List     | The web application was created to track personal nutrition | `html`, `css`, `js`, `node js`, Figma | [git name](https:// "second project") | 1 |
 | зебра-строки  | прикольные         |    $1 | 1 | 1 |
 ***
-### Courses:
+### <a name="course"></a>Courses:
 * HTML and CSS Tutorials on the [w3schools](https://www.w3schools.com/ "W3School") (completed)
 * JavaScript Manual on learnjavascript.ru (in progress)
 * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 ***
-### Languages:
+### <a name="language"></a> Languages:
 * English - Intermediate/Upper-intermediate (according to the online test at [www.efset.org](www.efset.org "Сайт для перевірки рівня знань"))
 * Ukrainian - Native
 * Russian - Intermediate
